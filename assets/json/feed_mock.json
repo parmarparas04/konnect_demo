@@ -1,0 +1,161 @@
+{
+    "feed": [
+        {
+            "post_id": "1",
+            "user": {
+                "user_id": "101",
+                "name": "John Doe",
+                "email": "john.doe@example.com",
+                "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+            },
+            "post_content": "The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.",
+            "like_count": 32,
+            "comments": [
+                {
+                    "comment_id": "comment_1",
+                    "user": {
+                        "user_id": "202",
+                        "name": "Jane Smith",
+                        "email": "jane.smith@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "Looks so serene! Where are you?",
+                    "timestamp": "2023-02-20T18:45:30Z"
+                }
+            ],
+            "image_url": "https://example.com/post1_image.jpg"
+        },
+        {
+            "post_id": "2",
+            "user": {
+                "user_id": "404",
+                "name": "Alice Williams",
+                "email": "alice.williams@example.com",
+                "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+            },
+            "post_content": "The only way to get better at taxation is to be slapped by atleast 10-15 penalties and figuring your way out ;)",
+            "like_count": 45,
+            "comments": [
+                {
+                    "comment_id": "comment_1",
+                    "user": {
+                        "user_id": "505",
+                        "name": "Charlie Brown",
+                        "email": "charlie.brown@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "The only way to get better at taxation is to be slapped by atleast 10-15 penalties and figuring your way out ;)",
+                    "timestamp": "2023-02-21T10:30:00Z"
+                },
+                {
+                    "comment_id": "comment_2",
+                    "user": {
+                        "user_id": "606",
+                        "name": "Eva Green",
+                        "email": "eva.green@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "I love the use of colors. Keep it up!",
+                    "timestamp": "2023-02-21T11:00:15Z"
+                }
+            ],
+            "image_url": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+        },
+        {
+            "post_id": "3",
+            "user": {
+                "user_id": "101",
+                "name": "John Doe",
+                "email": "john.doe@example.com",
+                "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+            },
+            "post_content": "The only way to get better at taxation is to be slapped by atleast 10-15 penalties and figuring your way out ;)",
+            "like_count": 33,
+            "comments": [
+                {
+                    "comment_id": "comment_1",
+                    "user": {
+                        "user_id": "202",
+                        "name": "Jane Smith",
+                        "email": "jane.smith@example.com",
+                        "profile_picture": "https://example.com/user202_profile.jpg"
+                    },
+                    "comment_text": "As Zomato and Swiggy navigate the intricacies of GST demand notices, the broader issue underscores the challenges faced by these digital platforms in",
+                    "timestamp": "2023-02-20T18:45:30Z"
+                },
+                {
+                    "comment_id": "comment_2",
+                    "user": {
+                        "user_id": "303",
+                        "name": "Bob Johnson",
+                        "email": "bob.johnson@example.com",
+                        "profile_picture": "https://example.com/user303_profile.jpg"
+                    },
+                    "comment_text": "Love the atmosphere. Beautiful!",
+                    "timestamp": "2023-02-20T19:15:45Z"
+                }
+            ],
+            "image_url": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+        },  {
+            "post_id": "1",
+            "user": {
+                "user_id": "101",
+                "name": "John Doe",
+                "email": "john.doe@example.com",
+                "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+            },
+            "post_content": "The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.The Delhi High Court, in the case of Intec Export India Pvt. Ltd. v.",
+            "like_count": 32,
+            "comments": [
+                {
+                    "comment_id": "comment_1",
+                    "user": {
+                        "user_id": "202",
+                        "name": "Jane Smith",
+                        "email": "jane.smith@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "Looks so serene! Where are you?",
+                    "timestamp": "2023-02-20T18:45:30Z"
+                }
+            ],
+            "image_url": "https://example.com/post1_image.jpg"
+        },
+        {
+            "post_id": "2",
+            "user": {
+                "user_id": "404",
+                "name": "Alice Williams",
+                "email": "alice.williams@example.com",
+                "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+            },
+            "post_content": "The only way to get better at taxation is to be slapped by atleast 10-15 penalties and figuring your way out ;)",
+            "like_count": 45,
+            "comments": [
+                {
+                    "comment_id": "comment_1",
+                    "user": {
+                        "user_id": "505",
+                        "name": "Charlie Brown",
+                        "email": "charlie.brown@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "The only way to get better at taxation is to be slapped by atleast 10-15 penalties and figuring your way out ;)",
+                    "timestamp": "2023-02-21T10:30:00Z"
+                },
+                {
+                    "comment_id": "comment_2",
+                    "user": {
+                        "user_id": "606",
+                        "name": "Eva Green",
+                        "email": "eva.green@example.com",
+                        "profile_picture": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+                    },
+                    "comment_text": "I love the use of colors. Keep it up!",
+                    "timestamp": "2023-02-21T11:00:15Z"
+                }
+            ],
+            "image_url": "https://i.pinimg.com/736x/93/e8/d0/93e8d0313894ff752ef1c6970116bad6.jpg"
+        }
+    ]
+}

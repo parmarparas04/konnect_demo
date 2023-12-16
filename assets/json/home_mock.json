@@ -1,0 +1,19 @@
+{
+    "home": [
+      {
+        "title": "Goods and Service Tax",
+        "subtitle": "Positions, articles and videos",
+        "icon": "assets/images/gst_icon.png"
+      },
+      {
+        "title": "Customs Duty",
+        "subtitle": "Positions, articles and videos",
+        "icon": "assets/images/custom_duty_icon.png"
+      },
+      {
+        "title": "Discussion Forum",
+        "subtitle": "What’s on your mind?",
+        "icon": "assets/images/discussion_form_icon.png"
+      }
+    ]
+}
