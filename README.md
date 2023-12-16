@@ -1,6 +1,6 @@
 # Konnect demo
 
-This Flutter application follows the Clean Architecture principles and utilizes the Bloc pattern for state management. T
+This Flutter application follows the Clean Architecture principles and utilizes the Bloc pattern for state management.
 ## Architecture Overview
 
 The project follows the Clean Architecture principles, separating the app into different layers:
