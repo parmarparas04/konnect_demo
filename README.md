@@ -1,7 +1,6 @@
 # Konnect demo
 
-This Flutter application follows the Clean Architecture principles and utilizes the Bloc pattern for state management. The app fetches daily news from the News API, displays them, and provides the option to save news articles to a local SQLite database.
-
+This Flutter application follows the Clean Architecture principles and utilizes the Bloc pattern for state management. T
 ## Architecture Overview
 
 The project follows the Clean Architecture principles, separating the app into different layers:
